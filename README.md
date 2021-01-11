@@ -1,0 +1,2 @@
+# Analysis-of-Signal-to-Noise-Ratio-and-Bit-Error-Rate-Parameters
+it's a FTTB architecture and the performance of the link analyzed by the correlation between Signal to Noise Ratio and Bit Error Rate. Using G657A2 cable (a type of single mode fiber optic). G657A2 fibres are used in advanced access cable network installation, where higher bend resistance is required for smaller cable jointing pits and also allows for cable and hardware miniaturisation.
